@@ -1,1 +1,1 @@
-# GenAI
+All GenAI Projects
